@@ -191,3 +191,5 @@ defaults:
       video_type: "Teachable Machine"
       video_type_short: "Tutorial"
       can_contribute: true
+
+theme: jekyll-theme-cayman
